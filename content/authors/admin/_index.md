@@ -25,8 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - -Highschool Middle school affiliated to Capital Normal University 2015-2018 
-  - -Bachelor Tsinghua university 2018-2022
+  - course Highschool 
+  Middle school affiliated to Capital Normal University 
+  2015-2018 
+  - course 
+  Bachelor Tsinghua university 
+  2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
