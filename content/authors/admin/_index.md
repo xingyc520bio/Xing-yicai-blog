@@ -24,7 +24,7 @@ interests:
 
 # Education to show in About widget
 education:
- - course: PhD in xxx
+  - course: PhD in xxx
     institution: xxx University
     year: 2027
   - course: Master in xxx
