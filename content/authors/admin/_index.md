@@ -24,12 +24,12 @@ interests:
 
 # Education to show in About widget
 education:
-    - course: Bachelor of biology
-    institution: Tsinghua University
-    year: 2018
-    - course: High school
-    institution: Middle school affiliated to Capital Normal University
-    year: 2015
+- course: Bachelor of biology
+ institution: Tsinghua University
+ year: 2018 
+- course: High school
+ institution: Middle school affiliated to Capital Normal University
+ year: 2015
     
   
 
