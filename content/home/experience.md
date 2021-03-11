@@ -28,5 +28,5 @@ experience:
     location: Beijing
     date_start: '2018-12'
     date_end: '2019-3'
-    description:Recording secondary school curriculum, consultant on education policy                 
+    description: Recording secondary school curriculum, consultant on education policy                 
 ---
