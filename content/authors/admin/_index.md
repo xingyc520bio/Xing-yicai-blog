@@ -24,7 +24,7 @@ interests:
 
 # Education to show in About widget
 education:
-- course: PhD in Artificial Intelligence
+ - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -34,6 +34,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
     
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
