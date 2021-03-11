@@ -24,15 +24,10 @@ interests:
 
 # Education to show in About widget
 education:
-  - course: PhD in xxx
-    institution: xxx University
-    year: 2027
-  - course: Master in xxx
-    institution: xxx
-    year: 2024
+  courses:
   - course: BSc in Biology
     institution: Tsinghua University
-    year: 2022
+    year: 2018
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
