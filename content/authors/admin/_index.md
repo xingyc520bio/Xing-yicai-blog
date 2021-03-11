@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xing Yicai is a student in Tsinghua University. She won the gold medal in the 2017 National Olympic Biology Competition for Middle School Students. Neurobiology is her lifelong interest. She also have basic biology and computer science knowledge. She have taken courses in deep learning, brain-like computing, and neurobiology postgraduate courses with A (top 20%). She have done neurotransmitter and modified GPCR conjugated probes in Li Yulong's laboratory at Peking University. She is now doing work about bipolar disorder mice in Jun Yao's Labortory at Tsinghua university.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
