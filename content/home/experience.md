@@ -26,7 +26,7 @@ experience:
     company: BBK corporation
     company_url: ''
     location: Beijing
-    date_start: '2018-12'
-    date_end: '2019-3'
+    date_start: '2018-12-01'
+    date_end: '2019-03-01'
     description: Recording secondary school curriculum, consultant on education policy                 
 ---
