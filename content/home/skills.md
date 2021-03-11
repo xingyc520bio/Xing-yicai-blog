@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: coding
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: R, python,cpp
+- description: math and algorithm
   icon: chart-line
   icon_pack: fas
   name: Deep Learning
-- description: 10%
+- description: expertise
   icon: camera-retro
   icon_pack: fas
   name: neuronscience
