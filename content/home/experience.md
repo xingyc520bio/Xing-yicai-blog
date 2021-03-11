@@ -29,11 +29,5 @@ experience:
     date_start: '2018-12'
     date_end: '2019-3'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  
+        Responsibilities include:                 
 ---
