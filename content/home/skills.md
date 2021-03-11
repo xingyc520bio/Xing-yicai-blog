@@ -23,11 +23,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Deep Learning
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: neuronscience
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
