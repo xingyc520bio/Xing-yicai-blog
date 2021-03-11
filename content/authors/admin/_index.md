@@ -24,15 +24,16 @@ interests:
 
 # Education to show in About widget
 education:
-- course: Bachelor of biology
- institution: Tsinghua University
- year: 2018 
-- course: High school
- institution: Middle school affiliated to Capital Normal University
- year: 2015
+- course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
     
-  
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
