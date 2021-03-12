@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Talk about GV-971 presented in lab meeting
 
-event: Wowchemy Conference
+event: Lab meeting
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Tsinghua University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Yao Lab
+  city: Beijing
+  region: China
+  postcode: '100086'
+  country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Mei Yu Geng's research on GV-971
+abstract: "The author thinks that the intestinal flora is a cause, and the target of gv-971 is the intestinal flora, but I always think that the change of intestinal flora is a result. Changes in gut microbiota may cause inflammation in the brain, leading to changes in cognitive function of the brain, but it is not necessarily Alzheimer's disease. At the same time, it may be that the inflammatory response caused by Alzheimer's disease further increases the inflammatory indicators in the body, not necessarily because of the role of intestinal flora. Combined with previous studies, I personally prefer that gv-971 will penetrate the blood-brain barrier, and the target is in the brain."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
