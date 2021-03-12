@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: A New Technology for Fundamental Bioinformatic Researchers: Visualizing the Pathway of Central Dogma of Molecular Biology
+summary: The methods of this study mainly include the following aspects. First, we use the name characteristics of proteins to roughly distinguish proteins into 16 categories, which represent some functional commonality and may also imply some sequence characteristics. And then we try to create a whole new sequence that doesn't exist in the course of biological evolution by using the properties of one of those sequences.By converting this sequence into DNA, researchers in the life sciences and medicine can use now sophisticated genetic recombination techniques to express similar proteins in living organisms, allowing them to make entirely new proteins.It is worth considering that the proteins expressed can only be verified by biological experiments, but such biological verification takes an extremely long time. So I want to try to predict the commonality of this protein through some structural biology
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,12 +30,5 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Organisms on earth follow the central law of copying, passing on, and using their genetic material. Life science and medicine researchers are well aware of the central principle that sequence determines the structure of biomolecules, and that structure determines the function of biomolecules. As the main functional substance of an organism, the sequence of proteins is determined by DNA. Developing a protein with certain function can solve lots of problem. Our team have developed a useful tool for researchers in the field of biology to generate DNA sequence of certain kind of protein.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
