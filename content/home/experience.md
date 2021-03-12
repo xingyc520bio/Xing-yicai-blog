@@ -28,5 +28,21 @@ experience:
     location: Beijing
     date_start: '2018-12-01'
     date_end: '2019-03-01'
-    description: Recording secondary school curriculum, consultant on education policy                 
+    description: Recording secondary school curriculum, consultant on education policy 
+    
+  - title: Lab number of Yulong Li
+    Institution: Peking University
+    company_url: ''
+    location: Beijing
+    date_start: '2019-07-01'
+    date_end: '2019-08-20'
+    description: Study about neurotransmitter and modified GPCR conjugated adenosine sensor. 
+    
+  - title: Lab number of Jun Yao
+    Institution: Tsinghua University
+    company_url: ''
+    location: Beijing
+    date_start: '2020-09-01'
+    date_end: ''
+    description: Study about mice model for bipolar disorder.
 ---
