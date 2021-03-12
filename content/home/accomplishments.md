@@ -27,9 +27,9 @@ item:
   date_end: ""
   date_start: "2018-10-01"
   description: ""
-  organization: Coursera
+  organization: Youtube
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Self Introduction
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
