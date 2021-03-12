@@ -1,5 +1,5 @@
 ---
-title: A New Technology for Fundamental Bioinformatic Researchers: Visualizing the Pathway of Central Dogma of Molecular Biology
+title: Example Project
 summary: The methods of this study mainly include the following aspects. First, we use the name characteristics of proteins to roughly distinguish proteins into 16 categories, which represent some functional commonality and may also imply some sequence characteristics. And then we try to create a whole new sequence that doesn't exist in the course of biological evolution by using the properties of one of those sequences.By converting this sequence into DNA, researchers in the life sciences and medicine can use now sophisticated genetic recombination techniques to express similar proteins in living organisms, allowing them to make entirely new proteins.It is worth considering that the proteins expressed can only be verified by biological experiments, but such biological verification takes an extremely long time. So I want to try to predict the commonality of this protein through some structural biology
 tags:
 - Deep Learning
