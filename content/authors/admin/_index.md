@@ -39,13 +39,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xingyc520bio/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
