@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Talks at classes and group meetings'
-subtitle:
+title: 'Talks'
+subtitle: My talks at meetings and classes
 
 content:
   # Page type to display. E.g. post, event, publication...
