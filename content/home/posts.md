@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Recent Note
+subtitle: This part will show my recent note of studying or reading.
 
 content:
   # Page type to display. E.g. post, talk, publication...
