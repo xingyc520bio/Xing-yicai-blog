@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks at classes and group meetings'
 subtitle:
 
 content:
@@ -19,7 +19,7 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
+    author: Xing Yicai
     category: ""
     tag: ""
     exclude_featured: false
