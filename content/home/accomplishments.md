@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Personal Display'
-subtitle:
+subtitle:This is a part to diplay my work and myself. The link in this part will lead to vedios made by myself.
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
