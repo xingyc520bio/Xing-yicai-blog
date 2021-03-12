@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-03-12"
-  description: "Get to know me"
+  description: Get to know me
   organization: Youtube
   organization_url: https://www.coursera.org
   title: Self Introduction
@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-03-12"
-  description: "Basicly focus on mice model of diseases".
+  description: Basicly focus on mice model of diseases
   organization: Youtube
   organization_url: https://www.edx.org
   title: Work of Yao Lab
