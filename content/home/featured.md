@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
-subtitle: ""
+title: Work of Mine 
+subtitle: "This part mianly shows the articles I have finnished"
 
 content:
   # Page type to display. E.g. post, talk, publication...
