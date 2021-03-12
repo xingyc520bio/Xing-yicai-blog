@@ -29,7 +29,7 @@ item:
   description: "Get to know me"
   organization: Youtube
   organization_url: https://www.coursera.org
-  title: 'Self Introduction'
+  title: Self Introduction
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
@@ -37,7 +37,7 @@ item:
   description: "Basicly focus on mice model of diseases".
   organization: Youtube
   organization_url: https://www.edx.org
-  title: 'Work of Yao Lab'
+  title: Work of Yao Lab
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: ""
@@ -45,6 +45,6 @@ item:
   description: ""
   organization: Youtube
   organization_url: https://www.datacamp.com
-  title: 'My Knowledge and my Interest'
+  title: My Knowledge and my Interest
   url: ""
 ---
